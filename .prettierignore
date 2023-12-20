@@ -1,0 +1,29 @@
+# deps
+node_modules
+
+# locks
+yarn.lock
+package-lock.json
+
+# env
+.env*
+
+# next.js
+.next
+out
+build
+
+# testing
+coverage
+
+# vercel
+.vercel
+
+# misc
+.DS_Store
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
